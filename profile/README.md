@@ -5,11 +5,11 @@
   </picture>
 </p>
 
-<h1 align="center">Localix</h1>
+<h1 align="center">Localix Lab</h1>
 
 <p align="center">
-  <strong>A lab building software for working with AI</strong><br>
-  We release early, learn from how people use them, and keep what works.
+  <strong>Exploring what's next, and making it.</strong><br>
+  We release early, learn from how people use what we make, and keep what works.
 </p>
 
 <p align="center">
