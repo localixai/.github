@@ -8,7 +8,7 @@
 <h1 align="center">Localix</h1>
 
 <p align="center">
-  <strong>Tools for building software with coding agents</strong><br>
+  <strong>A lab building software for working with AI</strong><br>
   We release early, learn from how people use them, and keep what works.
 </p>
 
